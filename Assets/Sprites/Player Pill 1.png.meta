@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: d18e206c7dcc50d4dba82b314619d313
+guid: cb5e6d9979fd4f24e99c1b6a5b6ff15a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6180913586471807665
-    second: Player Oval_0
+      213: 3297865813755908879
+    second: Player Pill 1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Player Oval_0
+      name: Player Pill 1_0
       rect:
         serializedVersion: 2
-        x: 107
-        y: 8
-        width: 297
-        height: 495
+        x: 121
+        y: 9
+        width: 279
+        height: 488
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,8 +140,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1baa905b82407c550800000000000000
-      internalID: 6180913586471807665
+      spriteID: f0353d91c7f54cd20800000000000000
+      internalID: 3297865813755908879
       vertices: []
       indices: 
       edges: []
@@ -157,7 +157,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Player Oval_0: 6180913586471807665
+      Player Pill 1_0: 3297865813755908879
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
